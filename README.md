@@ -1,5 +1,5 @@
 # Desafio Módulo 1
-Criando meu primeiro Repositório no Github.
+O desafio sugerido para a finalização do modulo 1 foi a criação do meu primeiro Repositório no Github.
 
 Para realizar o primeiro desafio foi recomendado baixar os programas Git e Github. 
 
