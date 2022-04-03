@@ -1,9 +1,9 @@
 # Desafio Módulo 1
-Criando meu primeiro Repositório no Github.
+O desafio sugerido para a finalização do modulo 1 foi a criação do meu primeiro Repositório no Github.
 
 Para realizar o primeiro desafio foi recomendado baixar os programas Git e Github. 
 
-Nesse repositório serão expostos meus certificados adquiridos no primeiro modulo do Bootcamp ÓRBI WEB GAMES DEVELOPER, todos separados com data do certificado e carga horária.
+Nesse repositório serão expostos meus certificados adquiridos no primeiro modulo do Bootcamp ÓRBI WEB GAMES DEVELOPER, todos separados com data e carga horária.
 
 # Links úteis para Download
 [GIT](https://git-scm.com/downloads) /
